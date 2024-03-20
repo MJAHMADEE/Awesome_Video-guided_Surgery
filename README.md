@@ -54,6 +54,7 @@ _🚀 **Under development. Welcome to contribute!**_ 🌟
 | Objective assessment of surgical technical skill and competency in the operating room | **ARBE 2017** | [Paper](https://www.annualreviews.org/doi/10.1146/annurev-bioeng-071516-044435) |
 | Vision-based and marker-less surgical tool detection and tracking: a review of the literature | **MIA 2017** | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841516301657?via%3Dihub) |
 | Surgical process modelling: a review | **IJCARS 2013** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-013-0940-5) |
+| Image Processing and Machine Vision in Surgery and Its Training | **JoC 2023** | [Paper](https://joc.kntu.ac.ir/article-1-999-en.html) |
 
 
 ---
@@ -64,6 +65,7 @@ _🚀 **Under development. Welcome to contribute!**_ 🌟
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark | **Arxiv 2021** | [Paper](https://arxiv.org/abs/2109.14956) |
+| Video-based Surgical Skill Assessment using Tree-based Gaussian Process Classifier | **Arxiv 2023** | [Paper](https://arxiv.org/html/2312.10208v2) |
 | Development and Validation of a 3-Dimensional Convolutional Neural Network for Automatic Surgical Skill Assessment Based on Spatiotemporal Video Analysis | **JAMA 2021** | [Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2782991?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamanetworkopen.2021.20786) |
 | Surgical Skill Evaluation From Robot-Assisted Surgery Recordings | **ISMR 2021** | [Paper](https://www.researchgate.net/publication/356471297_Surgical_Skill_Evaluation_From_Robot-Assisted_Surgery_Recordings)|
 | Towards Unified Surgical Skill Assessment | **CVPR 2021** | [Paper](http://www.vie.group/media/pdf/CVPR2021_Puz4Y7Z.pdf) [Code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) |
@@ -214,6 +216,8 @@ _🚀 **Under development. Welcome to contribute!**_ 🌟
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | ARAS-Farabi Experimental Framework for Skill Assessment in Capsulorhexis Surgery | **ICRoM 2021** | [Paper](https://ieeexplore.ieee.org/document/9663494) |
+| Surgical instrument tracking for capsulorhexis eye surgery based on siamese networks | **ICRoM 2022** | [Paper](https://ieeexplore.ieee.org/abstract/document/10025355/) |
+| A Deep Dive Into Capsulorhexis Segmentation: From Dataset Creation to SAM Fine-tuning | **ICRoM 2023** | [Paper](https://ieeexplore.ieee.org/abstract/document/10412370/) |
 | hSDB-instrument: Instrument Localization Database for Laparoscopic and Robotic Surgeries |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_38) |
 | Prototypical Interaction Graph for Unsupervised Domain Adaptation in Surgical Instrument Segmentation |  **MICCAI 2021**  | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_26) |
 | Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data | **MICCAI 2021** | [Paper](https://arxiv.org/pdf/2103.09276.pdf) |
