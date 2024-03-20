@@ -1,47 +1,33 @@
-# Awesome-Surgical-Video-Analysis
+# Awesome-Surgical-Video-Analysis 🎥🔬
 
-<!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- -->
-_**Under development. Welcome to contribute.**_
+<!-- Badges for a stylish touch -->
+[![Awesome](https://img.shields.io/badge/awesome-yes-brightgreen.svg)](https://github.com/sindresorhus/awesome)
+[![Under Development](https://img.shields.io/badge/status-under%20development-orange.svg)](https://github.com/your-github/awesome-surgical-video-analysis)
 
-TO DO:
-- Add links
-- Search for more papers
-- Better categories, Better curation
-<!-- - Add 2020/2021 works for skill assessment
-- Elaborate on surgical phase/action recognition
-- Elaborate on surgical instrument/scene segmentation -->
-<!-- - last big 4
- -->
-<!--  - two pie charts (venue / Topic)
-  -->
-## Contents
+_🚀 **Under development. Welcome to contribute!**_ 🌟
 
-[The Big Picture](#picture)
+📝 **TO DO:**
+- 🖇 Add links
+- 🔍 Search for more papers
+- 📂 Better categories, Better curation
 
-[Survey](#survey)
+## 📚 Contents
 
-[Surgical Skill Assessment](#skill)
-
-[Surgical Skill Transfer](#transfer)
-
-[Surgical Phase Recognition](#phase)
-
-[Surgical Gesture Recognition](#gesture)
-
-[Surgical Instrument Recognition / Localization](#instrument)
-
-[Surgical Scene / Anatomy Recognition](#scene)
-
-[Human / Activity in Operating Rooms](#operatingrooms)
-
-<!-- [Video-Based Navigation in Surgery](#navigation)
- -->
-[Others](#others)
+- [The Big Picture](#the-big-picture)
+- [Survey](#survey)
+- [Surgical Skill Assessment](#surgical-skill-assessment)
+- [Surgical Skill Transfer](#surgical-skill-transfer)
+- [Surgical Phase Recognition](#surgical-phase-recognition)
+- [Surgical Gesture Recognition](#surgical-gesture-recognition)
+- [Surgical Instrument Recognition / Localization](#surgical-instrument-recognition--localization)
+- [Surgical Scene / Anatomy Recognition](#surgical-scene--anatomy-recognition)
+- [Human / Activity in Operating Rooms](#human--activity-in-operating-rooms)
+- [Others](#others)
 
 
+---
 
-## <span id = "picture"> **The Big Picture** </span>
+## 🌟 The Big Picture
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -54,8 +40,9 @@ TO DO:
 <!-- | Supporting laparoscopic general surgery training with digital technology: The United Kingdom and Ireland paradigm | **BMC 2021** | [Paper](https://discovery.ucl.ac.uk/id/eprint/10124234/) | -->
 
 
+---
 
-## <span id = "survey"> **Survey** </span>
+## 📖 Survey
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -69,7 +56,9 @@ TO DO:
 | Surgical process modelling: a review | **IJCARS 2013** | [Paper](https://link.springer.com/article/10.1007%2Fs11548-013-0940-5) |
 
 
-## <span id = "skill"> **Surgical Skill Assessment** </span>
+---
+
+## 🎯 Surgical Skill Assessment
 
 
 | Title | Venue | Links |
@@ -120,7 +109,9 @@ TO DO:
 | Data-derived models for segmentation with application to surgical assessment and training | **MICCAI 2009** | 
 | Multitask learning for video-based surgical skill assessment | **DICTA 2009** | [Paper](https://researchers.mq.edu.au/en/publications/multitask-learning-for-video-based-surgical-skill-assessment) | |
 
-## <span id = "transfer"> **Surgical Skill Transfer** </span>
+---
+
+## 🔄 Surgical Skill Transfer
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -133,7 +124,9 @@ TO DO:
 | DESK: A Robotic Activity Dataset for Dexterous Surgical Skills Transfer to Medical Robots | **RSJ 2019** | [Paper](https://arxiv.org/pdf/1903.00959) [Code](https://github.com/nmadapan/Forward_Project?utm_source=catalyzex.com) |
 | Transferring Dexterous Surgical Skill Knowledge between Robots for Semi-autonomous Teleoperation | **CoRaHIC 2019** | [Paper](https://www.researchgate.net/publication/335013887_Transferring_Dexterous_Surgical_Skill_Knowledge_between_Robots_for_Semi-autonomous_Teleoperation) | |
 
-## <span id = "phase"> **Surgical Phase Recognition** </span>
+---
+
+## ⏱ Surgical Phase Recognition
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -182,9 +175,9 @@ TO DO:
 <!-- | Toward a Neural-Symbolic Framework for Automated Workflow Analysis in Surgery | **MEDICON 2019** | [Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-31635-8_192) | -->
 
 
+---
 
-
-## <span id = "gesture"> **Surgical Gesture Recognition** </span>
+## 🤖 Surgical Gesture Recognition
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -214,10 +207,9 @@ TO DO:
 | Automatic detection and segmentation of robot-assisted surgical motions | **MICCAI 2005** | |
 
 
+---
 
-
-
-## <span id = "instrument"> **Surgical Instrument Recognition / Localization** </span>
+## 🔧 Surgical Instrument Recognition / Localization
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -269,7 +261,9 @@ TO DO:
 <!-- | Automated Surgical Instrument Detection from Laparoscopic Gastrectomy Video Images Using an Open Source Convolutional Neural Network Platform | **JACS 2020** | | -->
 <!-- | Deep residual learning for instrument segmentation in robotic surgery | **MLMI 2019** | | -->
 
-## <span id = "scene"> **Surgical Scene / Anatomy Recognition** </span>
+---
+
+## 🏥 Surgical Scene / Anatomy Recognition
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
 | Artificial Intelligence for Surgical Safety: Automatic Assessment of the Critical View of Safety in Laparoscopic Cholecystectomy using Deep Learning | **AnnS 2020** | [Paper](https://journals.lww.com/annalsofsurgery/Abstract/9000/Artificial_Intelligence_for_Surgical_Safety_.94005.aspx) |
@@ -279,7 +273,9 @@ TO DO:
 | Long Term Safety Area Tracking (LT-SAT) with online failure detection and recovery for robotic minimally invasive surgery | **MIA 2018** | [Paper](https://doi.org/10.1016/j.media.2017.12.010) |
 
 
-## <span id = "operatingrooms"> **Human / Activity in Operating Rooms** </span>
+---
+
+## 👥 Human / Activity in Operating Rooms
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -293,7 +289,7 @@ TO DO:
 | Video based activity recognition in trauma resuscitation | **FG 2013** | [Paper](https://ieeexplore.ieee.org/document/6553758) |
 
 
-<!-- ## <span id = "navigation"> **Video-Based Navigation in Surgery** </span>
+## <span id = "navigation"> **Video-Based Navigation in Surgery** </span>
 
 | Title | Venue | Links |
 | :--------------------: | :-------------: | :-----: |
@@ -304,7 +300,7 @@ TO DO:
 | Intelligent viewpoint selection for efficient CT to video registration in laparoscopic liver surgery | **IJCARS 2017**| [Paper](https://discovery.ucl.ac.uk/id/eprint/1549761/) |
 | Rendering-based video-CT registration with physical constraints for image-guided endoscopic sinus surgery | **ISOP 2015** | [Paper](https://www.cs.jhu.edu/~areiter/JHU/Publications_files/Otake_SPIE2015_Paper_VideoCT_9415-8.pdf) |
 | A system for video-based navigation for endoscopic endonasal skull base surgery | **TMI 2011** | [Paper](http://www.cs.jhu.edu/~hwang/papers/TMI2011.pdf) |
- -->
+
 ## <span id = "others"> **Others** </span>
 
 | Title | Venue | Links |
